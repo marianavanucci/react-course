@@ -1,0 +1,31 @@
+JAVASCRIPT: REVISÃO PARA REACT
+==========
+
+let = var que realmente varia
+const = var que não varia, constante
+
+function nome(argumento){};
+const nome = (argumento)=>{};
+this => vantagem do arrow function
+
+constructor functions => const myPerson = new Person()
+
+REACT => COMPONENTS
+COMPONENTS = blocos reutilizáveis na interface do usuário
+             separação de interesses (concerns)
+
+COMO COMEÇAR UM PROJETO REACT
+=============================
+
+1-google => create react app (link github)
+https://github.com/facebook/create-react-app
+
+https://create-react-app.dev/ (documento oficial)
+
+2- no terminal da pasta que quero criar o projeto 
+colar a linha de comando npx create-react-app meu projeto
+
+3- dentro da pasta criada usar comando : npm start
+
+4- vai abrir a página http://localhost:3000/
+
